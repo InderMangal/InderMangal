@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InderMangal
+- 👋 Hi, I’m InderMangal
 - 👀 I’m interested in Full Stack Development and Programming(Java & C++)
 - 🌱 I’m currently learning Data Structures and Algorithms , React, Jquery and Node.js
 - 💞️ I’m looking to collaborate on projects that helps me to grow in this field and contribute to the society.
